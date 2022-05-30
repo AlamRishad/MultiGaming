@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".Quiz_Activity">
+
+    <TextView
+        android:id="@+id/question_attempted"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_above="@+id/question"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:paddingTop="20sp"
+        android:text="Question Attempted : 0/5"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_one"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:paddingTop="20sp"
+        android:paddingBottom="75dp"
+        android:text="Question"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/btn_one"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/btn_two"/>
+
+    <Button
+        android:id="@+id/btn_two"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/btn_three"/>
+
+    <Button
+        android:id="@+id/btn_three"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/btn_four"/>
+
+    <Button
+        android:id="@+id/btn_four"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="D"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/score"
+        />
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:paddingTop="20sp"
+        android:layout_above="@+id/linear"
+        android:paddingBottom="50dp"
+        android:text="Current Score : 0"
+        android:textSize="25sp" />
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="20dp"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/btn_restart"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Game"
+        android:layout_marginRight="10dp"
+        android:backgroundTint="@color/green"
+        android:layout_centerHorizontal="true"
+        />
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/btn_endquiz"
+
+        android:backgroundTint="@color/red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EndQuiz"
+
+
+        />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

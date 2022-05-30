@@ -26,6 +26,14 @@
             android:name=".RegisterActivity"
             android:exported="true">
         </activity>
+        <activity android:name=".Quiz_Activity"
+            android:exported="true">
+
+        </activity>
+        <activity android:name=".TikTakTokActivity"
+            android:exported="true">
+
+        </activity>
     </application>
 
 </manifest>
