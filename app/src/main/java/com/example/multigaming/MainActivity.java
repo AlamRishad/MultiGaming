@@ -14,6 +14,7 @@ import android.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.Adapter;
 import android.widget.Button;
 import android.widget.Toolbar;
 
@@ -23,6 +24,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
@@ -32,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     NavigationView navigationView2;
     Toolbar toolbar;
     ActionBarDrawerToggle actionBarDrawerToggle;
+
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
@@ -47,7 +50,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        List<Affirmation> myDataset =  new Datasource().loadAffirmations();
+
+     // List<ElementModel> myDataset =  new Datasource().loadAffirmations();
        // MyListAdapter adapter = new MyListAdapter(myListData);
 //        recyclerView.setHasFixedSize(true);
 //        recyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -104,6 +108,8 @@ public class MainActivity extends AppCompatActivity {
 
         });
     }
+
+
 
     private BottomNavigationView.OnNavigationItemSelectedListener navListener =
             new BottomNavigationView.OnNavigationItemSelectedListener() {

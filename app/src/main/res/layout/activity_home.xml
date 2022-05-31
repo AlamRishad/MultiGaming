@@ -10,48 +10,6 @@
         tools:context=".StartPage"
         android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Quiz App"
-        android:textSize="30dp"
-        android:layout_gravity="center_horizontal"
-
-        android:textStyle="bold"
-        android:layout_marginTop="175dp"
-        android:layout_marginBottom="20dp"
-        />
-    <Button
-        android:id="@+id/play"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Play"
-        android:layout_marginBottom="10dp"
-        android:layout_gravity="center_horizontal"
-
-        android:backgroundTint="@color/green"
-        />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Tik Tak Toe"
-            android:textSize="30dp"
-            android:layout_gravity="center_horizontal"
-
-            android:textStyle="bold"
-            android:layout_marginTop="40dp"
-            android:layout_marginBottom="20dp"
-            />
-
-    <Button
-        android:id="@+id/exit"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Play"
-        android:layout_gravity="center_horizontal"
-        android:backgroundTint="@color/green"
-        />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
