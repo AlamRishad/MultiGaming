@@ -62,8 +62,8 @@ If you click Calculator image. Then start calculator . You can use this calcolat
 If you click Snake image. Then show new game and end game button .If you click new game , then the game started . When the game is ended , then show new game and end game button again. If you press endgame button  , then you go to the homepage.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snake.PNG?raw=true)
-![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakegmae.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakestart.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakegmae.PNG?raw=true)
 
 In the bottom navigationBar , if you click the favourite icon then show the favourite screen . If you click search icon then show the search icon.
 
@@ -72,6 +72,6 @@ In the bottom navigationBar , if you click the favourite icon then show the favo
 
 In drawer, If you want to logout , then press the log out button , then you go to login page . If you press settings, then it show settings fragments.
 
-![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
