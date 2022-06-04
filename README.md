@@ -17,6 +17,7 @@ United International University, Dhaka
 - Multiple gaming system
 - Play Game (Tik Tak Toe , Snake , Quiz , Calculator )
 - Using Drawer , Fragment , Recycleview 
+- Firebase Authentication
 
 
 ## Screenshots
