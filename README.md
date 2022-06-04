@@ -26,7 +26,7 @@ United International University, Dhaka
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endquiz.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endtiktaktoe.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/homepage.PNG?raw=true)
-![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/login.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/playTiktaktoe.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/register.PNG?raw=true)
