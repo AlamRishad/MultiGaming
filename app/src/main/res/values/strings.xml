@@ -41,5 +41,13 @@
     <string name="affirmation10">I will be present in all the moments that this day brings.</string>
     <string name="title">Do you want to delete?</string>
     <string name="delete">Delete</string>
+    <string name="point_of_view">Point of View</string>
+    <string name="dual">Dual</string>
+    <string name="new_game">New Game</string>
+    <string name="control">Control :</string>
+    <string name="sound">Sound :</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
 
 </resources>

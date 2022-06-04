@@ -38,6 +38,7 @@ public class HomeActivity extends Fragment {
         element.add(new ElementModel(R.drawable.image1));
         element.add(new ElementModel(R.drawable.image2));
         element.add(new ElementModel(R.drawable.image11));
+        element.add(new ElementModel(R.drawable.image12));
 //
 //        initData();
 //        initRecycleview();
@@ -60,6 +61,10 @@ public class HomeActivity extends Fragment {
                 }
                 else if(position==2){
                     Intent intent = new Intent( context,CalculatorActivity.class);
+                    startActivity(intent);
+                }
+                else if(position==3){
+                    Intent intent = new Intent( context,SettingActivity.class);
                     startActivity(intent);
                 }
             }
