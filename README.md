@@ -47,51 +47,57 @@ You have signin Successfully. This is your homepage. Now you can enjoy your favo
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/homepage.PNG?raw=true)
 
-Quiz:
+#### Quiz:
 After entering quiz game , you will find five random questions. You will have to answer the questions one by one. After answering all the questions you will automatically view your score. If you want to play again , click 'NEW GAME'.If you click 'END QUIZ' , you will automatically go to homepage.  
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/startquiz.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endquiz.PNG?raw=true)
 
-TicTacToe:
+
+#### TicTacToe:
 After entering tictactoe game , You will find a box. Here , at a time two people can play this game. On your turn you will click on any small box. If you want to play again , click 'RESTART'.If you click 'ENDGAME' , you will automatically go to homepage. 
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/Calculator.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endtiktaktoe.PNG?raw=true)
 
-Calculator:
+#### Calculator:
 Here You can  summation , subtraction , multiply and division. If you pressed 'back' button , you will go to homepage.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/Calculator.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/startcalculator.PNG?raw=true)
 
-Snake:
+#### Snake:
+After enterning snake game, you will find "NEW GAME" and "END GAME" button. For starting the game , click "NEW GAME" . Otherwise click "END GAME".  
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snake.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakegmae.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakestart.PNG?raw=true)
 
-In the bottom navigationBar , if you click the favourite icon then show the favourite screen . If you click search icon then show the search icon.
+You can find your favourite games in bottom navigation "favourite" icon. Also you can find all games in bottomnavigation "search" icon.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/fav.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/search.PNG?raw=true)
 
-When press search icon , then get search interface . If you want to search game , then you can search here. If your search value is valid. Then you get some game and click the image and enjoy the game.    
+If you want to get specific game , go to "search" icon. Then write the name of the game.  
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/search.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/searchone.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/searchtwo.PNG?raw=true)
 
-In drawer,If you click share button . Then you get shareable link.
+In drawer, you can share your app by clicking 'share' icon. 
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/sharelink.PNG?raw=true)
 
+If you press 'settings' icon, you will find settings fragment.
 
-If you want to logout , then press the log out button , then you go to login page . If you press settings, then it show settings fragments.
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
+
+If you want to logout ,  press the log out button . 
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
-![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
+
 
 
