@@ -1,6 +1,7 @@
 # MultiGaming
 ## Developed Using
 - Programming Language : Java
+- Database : Firebase
 
 ## Developed By
 
@@ -14,11 +15,12 @@ United International University, Dhaka
 ## Features
 
 - SignIn/SignUp(Google Authentication / Email,Password )using Firebase
+- Firebase Authentication
 - Multiple gaming system
 - Play Game (Tik Tak Toe , Snake , Quiz , Calculator )
 - Using Drawer , Fragment , Recycleview 
-- Firebase Authentication
 - Game Searching System
+- Applink share system
 
 
 
@@ -78,8 +80,16 @@ When press search icon , then get search interface . If you want to search game 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/searchone.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/searchtwo.PNG?raw=true)
 
-In drawer, If you want to logout , then press the log out button , then you go to login page . If you press settings, then it show settings fragments.
+In drawer,If you click share button . Then you get shareable link.
 
-![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/sharelink.PNG?raw=true)
+
+
+If you want to logout , then press the log out button , then you go to login page . If you press settings, then it show settings fragments.
+
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logout.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
+![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/settings.PNG?raw=true)
+
+
