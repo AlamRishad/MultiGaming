@@ -26,44 +26,46 @@ United International University, Dhaka
 
 
 ## Screenshots
-This is my login page , if you registered before , then you can giving ( email , paasword) / Click Sign in With Google and select your google account for login. If you haven't any account , then click the register button.  
+This is my login page , if you registered before , then you can give your ( email , paasword) for login or you  can Click (Sign in With Google) Button  and select your google account for login. If you don't haven any account , then click the register button.  
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
 
-This is register page , here you can give your email and password for create account.
+This is register page , Give your email and password for create account.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/register.PNG?raw=true)
 
-Give valid email , password then click register button.
+You have to give valid email and strong password. Now click register button.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/registration.PNG?raw=true)
 
-If registration completed , then show login page . And give the valid email password then login. You can also login pressing Sign in with Google(Google Authentication) button. 
+After completing registration , You can login in your account using  valid email and password . You can also login using 'Sign in with Google'(Google Authentication) button. 
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/logIn.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/emailpasslogin.PNG?raw=true)
 
-This is my homepage.Here I use recycleview to show the games images. If you want to play any of them , then just click the image which you want to play. 
+You have signin Successfully. This is your homepage. Now you can enjoy your favourite game. Click on your favourite game image.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/homepage.PNG?raw=true)
 
-If you click quiz image . Then start quiz game . When the game is ended , then you can quit or continue the game. If you quit  , then you go to the homepage.
+Quiz:
+After entering quiz game , you will find five random questions. You will have to answer the questions one by one. After answering all the questions you will automatically view your score. If you want to play again , click 'NEW GAME'.If you click 'END QUIZ' , you will automatically go to homepage.  
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/startquiz.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endquiz.PNG?raw=true)
 
-If you click Tic Tac Toe image. Then start tictactoe game . When the game is ended , then you can quit or continue the game. If you quit  , then you go to the homepage.
+TicTacToe:
+After entering tictactoe game , You will find a box. Here , at a time two people can play this game. On your turn you will click on any small box. If you want to play again , click 'RESTART'.If you click 'ENDGAME' , you will automatically go to homepage. 
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/Calculator.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/endtiktaktoe.PNG?raw=true)
 
-If you click Calculator image. Then start calculator . You can use this calcolator to calculate something, If you pressed back vutton , then you go to the homepage.
+Calculator:
+Here You can  summation , subtraction , multiply and division. If you pressed 'back' button , you will go to homepage.
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/Calculator.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/startcalculator.PNG?raw=true)
 
-
-If you click Snake image. Then show new game and end game button .If you click new game , then the game started . When the game is ended , then show new game and end game button again. If you press endgame button  , then you go to the homepage.
+Snake:
 
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snake.PNG?raw=true)
 ![App Screenshot](https://github.com/AlamRishad/MultiGaming/blob/master/ScreenShoot/snakegmae.PNG?raw=true)
