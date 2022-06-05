@@ -35,10 +35,10 @@ public class HomeActivity extends Fragment {
         recyclerView = root.findViewById(R.id.recycler_view);
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         element = new ArrayList<>();
-        element.add(new ElementModel(R.drawable.image1));
-        element.add(new ElementModel(R.drawable.image2));
-        element.add(new ElementModel(R.drawable.image11));
-        element.add(new ElementModel(R.drawable.image12));
+        element.add(new ElementModel(R.drawable.image1,"Quiz"));
+        element.add(new ElementModel(R.drawable.image2,"Tictactoe"));
+        element.add(new ElementModel(R.drawable.image11,"Calculator"));
+        element.add(new ElementModel(R.drawable.image12,"Snake"));
 //
 //        initData();
 //        initRecycleview();
