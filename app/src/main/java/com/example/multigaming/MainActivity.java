@@ -93,8 +93,11 @@ public class MainActivity extends AppCompatActivity {
                             new SettingsActivity()).commit();
                 } else if (item.getItemId() == R.id.side_share) {
                     drawerLayout.closeDrawer(GravityCompat.START);
-                    getFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                            new ShareActivity()).commit();
+                   Intent intent = new Intent(Intent.ACTION_SEND);
+                   intent.setType("text/plain");
+                   intent.putExtra(Intent.EXTRA_SUBJECT,"Check out this cool Application");
+                    intent.putExtra(Intent.EXTRA_TEXT,"Your Application link here");
+                    startActivity(Intent.createChooser(intent,"Share Via"));
                 }
                 else if (item.getItemId() == R.id.side_logout) {
                     FirebaseAuth.getInstance().signOut();
